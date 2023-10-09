@@ -2,7 +2,7 @@
 
 I am devve 😄🦎
 
-Meet me [here](https://devve.space/#about).
+Meet me [here](https://devve.space/about).
 
 
 ### Projects
