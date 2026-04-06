@@ -4,7 +4,7 @@ I am devve 😄🦎
 
 Meet me [here](https://its.devve.space).
 
-Read my blog [here](https://devve.space)
+Read my blog [here](https://devve.space).
 
 
 ### Programming
