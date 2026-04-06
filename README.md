@@ -6,6 +6,7 @@ Meet me [here](https://its.devve.space).
 
 Read my blog [here](https://devve.space).
 
+Some of my code lives in [Codeberg](https://codeberg.org/devve) due to external projects that mainly live there.
 
 ### Programming
 
